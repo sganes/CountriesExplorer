@@ -31,3 +31,14 @@
     transform: rotate(360deg);
   }
 }
+
+.search {
+  text-align: center;
+  margin: 5px 0;
+  border: 1px solid #c4c4c4;
+  height: 30px;
+  color: #575757;
+  border-radius: 5px;
+  font-size: 20px;
+}
+
